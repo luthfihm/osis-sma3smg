@@ -1,0 +1,7 @@
+<div align="center"><span class="titlesubsie2">Pertemuan 10 Generasi</span></div><br />
+          <br />	
+        <div style="overflow:auto; height:500px; width: 505px"><p class="no_marg s1" style="width:475px">
+		Jumat tanggal 26 Februari 2010 kemarin, OSIS SMA 3 Semarang mengadakan pertemuan sepuluh generasi yang diadakan di aula SMA 3. Kegiatan yang merupakan salah satu program pokok dari kasie VI ini berjalan cukup lancar dan sukses walaupun ada beberapa orang yang berhalangan hadir. Acara ini dihadiri oleh pengurus-pengurus OSIS mulai dari angakatan 2000-2001 sampai angkatan 2009-2010. Dimulai pukul 9.00 pagi, diawali dengan pembukaan, dan dilanjutkan oleh sambutan dari Mitratama periode 2000-2001, kemudian sambutan dari bapak Soleh Amin selaku wakasek kesiswaan. Setelah itu acara dilanjutkan dengan perkenalan dari semua pengurus maupun mantan pengurus OSIS, sharing per jabatan, lalu makan siang bersama. Sebelum makan seperti adat OSIS semua orang menyerukan kalimat "mari kita makan demi kejayaan OSIS". Acara terakhir yang tidak mungkin dilewatkan adalah saat sesi foto bersama. Kemudian acara berakhir saat waktu sudah menunjukkan pukul 12.00. Pertemuan ini sudah tiap tahun diadakan, dan akan terus diadakan tahun-tahun berikutnya untuk menjalin silaturahmi yang baik antar pengurus OSIS SMA 3 Semarang. Walaupun semua mantan pengurus OSIS SMA 3 sudah banyak yang tinggal terpisah-pisah, kami tetap berharap semoga tali persaudaraan ini tidak akan pernah lekang oleh waktu.
+
+
+</p></div>

@@ -1,0 +1,10 @@
+<div align="center"><span class="titlesubsie2">KARTINI GANESHA</span></div><br />
+          <br />	
+        <div style="overflow:auto; height:500px; width: 505px"><p class="no_marg s1" style="width:475px">
+		Kartini Ganesha merupakan salah satu program pokok kasie IV OSIS SMA 3 Semarang yang bertujuan mencari putri-putri berbudaya terbaik yang ada di SMA 3 Semarang. Acara Kartini Ganesha ini sudah dua kali diadakan di SMA 3, dan tahun ini, acara final diadakan pada hari sabtu tanggal 10 April 2010 kemarin.<br /><br />
+Acara dimulai pada pukul 9 pagi, yang dibuka oleh penampilan dari ensamble SMA 3 yang membawakan lagu ibu kita kartini. Kemudian acara dilanjutkan oleh pembukaan oleh MC yang lalu disambung oleh sambutan dari bapak Hari Waluyo selaku kepala SMA 3. Lalu acara selanjutnya adalah pengenalan ke 13 finalis kartini ganesha dan pengenalan 3 juri. Juri yang hadir pada saat itu adalah bapak Sudianto selaku guru bahasa jawa, bapak Maskur, dan ibu Widi. Setelah semua finalis diperkenalkan yaitu dengan berjalan di blue carpet, tibalah saatnya tiap-tiap finalis tampil satu persatu menunjukkan kebolehannya. Setiap finalis yang maju harus berjalan dengan anggun layaknya seorang kartini sejati di blue carpet, lalu mereka harus menjawab ketiga pertanyaan yang diajukan oleh setiap juri.<br /><br />
+Acara juga diselingi dengan penampilan dari karawitan SMA 3. setelah hari mulai siang dan semua finalis sudah tampil, para juri melakukan perhitungan untuk menentukan siapa 6 besar kartini terbaik. Di sekitar area tersebut juga ada kotak voting yang bisa diisi oleh semua siswa SMA 3, agar mereka dapat mendukung kartini favorit. Dan hasil voting yang terbanyak akan dinobatkan sebagai karini terfavorit.
+Setelah beberapa saat, juri telah menentukan 6 besar finalis yang terpilih. Kemudian setiap finalis yang terpilih wajib menampilkan adu bakat dan satu penampilan membacakan geguritan, atau nembang. Sesudah 6 finalis menunjukkan kebolehannya, rangkaian acarapun berakhir. Pemenang Kartini Ganesha 2010 dan Kartini Terfavorit akan diumumkan dan dinobatkan pada saat upacara bendera.
+
+
+</p></div>
